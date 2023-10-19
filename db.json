@@ -151,16 +151,6 @@
       "image": "https://images.unsplash.com/photo-1514984879728-be0aff75a6e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1984&q=80"
     },
     {
-      "id": 16,
-      "name": "Zoe",
-      "owner": "Melissa Johnson",
-      "breed": "Cocker Spaniel",
-      "age": 8,
-      "gender": "female",
-      "bio": "Zoe is a sweet-natured Cocker Spaniel who loves gentle walks and cuddling. She has a soft spot for apple slices as snacks but strongly dislikes bathtime!",
-      "image": "https://images.unsplash.com/photo-1580768581776-6e6eefd20b53?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80"
-    },
-    {
       "id": 17,
       "name": "Oliver",
       "owner": "Christopher Thompson",
@@ -179,16 +169,6 @@
       "gender": "female",
       "bio": "Lucy is an active Dalmatian who thrives on long runs and outdoor adventures. She's a fan of cheese cubes as snacks but prefers to skip bathtime if she can!",
       "image": "https://images.unsplash.com/photo-1625481725655-bfe65d0b2f8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1888&q=80"
-    },
-    {
-      "id": 19,
-      "name": "Max",
-      "owner": "Richard Martinez",
-      "breed": "Pomeranian",
-      "age": 7,
-      "gender": "male",
-      "bio": "Max is a fluffy Pomeranian who enjoys short walks and cozy snuggles. He has a fondness for small apple slices as snacks and doesn't particularly enjoy the vet!",
-      "image": "https://images.unsplash.com/photo-1555231458-22288111e347?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
     },
     {
       "id": 20,
