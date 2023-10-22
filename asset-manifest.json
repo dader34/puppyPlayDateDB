@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/puppyPlayDateDB/static/css/main.b80e68d3.css",
-    "main.js": "/puppyPlayDateDB/static/js/main.23e63e4d.js",
+    "main.js": "/puppyPlayDateDB/static/js/main.dd9ba44c.js",
     "static/media/logo.jpg": "/puppyPlayDateDB/static/media/logo.0e4312932627332831eb.jpg",
     "index.html": "/puppyPlayDateDB/index.html",
     "main.b80e68d3.css.map": "/puppyPlayDateDB/static/css/main.b80e68d3.css.map",
-    "main.23e63e4d.js.map": "/puppyPlayDateDB/static/js/main.23e63e4d.js.map"
+    "main.dd9ba44c.js.map": "/puppyPlayDateDB/static/js/main.dd9ba44c.js.map"
   },
   "entrypoints": [
     "static/css/main.b80e68d3.css",
-    "static/js/main.23e63e4d.js"
+    "static/js/main.dd9ba44c.js"
   ]
 }
