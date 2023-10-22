@@ -1,0 +1,8 @@
+/* Media Queries */
+@media screen and (max-width: 568px) {
+  .outlet {
+    height: 88%;
+    overflow-y: scroll;
+    width: 100%;
+  }
+}
